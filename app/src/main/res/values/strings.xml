@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reddit</string>
+    <string name="cargando">Cargando...</string>
+    <string name="title_activity_detail_tema">DetailTema</string>
+    <string name="nore_info">more info</string>
+    <string name="salir">Salir</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="share">share</string>
+    <string name="prueba">Prueba tecnica</string>
+    <string name="por">Presentada por:</string>
+    <string name="nombre">Luis Ordoñez</string>
+    <string name="mail">luisordoniez@gmail.com</string>
+    <string name="anio">2016</string>
+
+
+</resources>
